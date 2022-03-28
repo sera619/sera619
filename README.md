@@ -1,16 +1,30 @@
-- 👋 Hi, I’m Nick aka S3R43o3, x E-Sportler and a computer fan since the beginning of the 90's. My damn first Game was the C64 version from prince of persia on 2 floppy disc.
-  For sure this is just the beginning of a long journey to take the skills like a Full-Stack.
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
-- 👀 I’m interested in all kind of Gaming, Techs and some normal other stuff like non-geeks have =D.
-- 🌱 I’m currently learning Game-Developement on Godot, GDscript aswell. In order to create a game i learn some graficskills too.
-- 💞️ I’m currently not looking to collaborate at any Project cause my Game-Project need my full attention for now. But beside this fact i´m allways up to get cool and inovative projects to look up =) .
-- 📫 You can reach me on the normal SocialHubs. U can find the links in all project details.
+![Logo](https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true)
+---
+<strong><h1 align='center'></h1></strong>
+<p align="center">
+<strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">ABOUT</a></strong>
+|
+<strong><a href="https://github.com/sera619/BashDIC/blob/master/YDTM.sh">PROJECTS</a></strong>
+<strong><h3 align='center'>Welcome to my GitHub!</h3></strong>
 
-## I'm currently looking for a PixelArt-Dysigner and Story-/Dialoguewriter. Please contact me if u interessted. 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
+<center>
 
+[![----](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right)](https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
+[![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
+[![---](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right)](https://tryhackme.com/p/S3R43o3)
 
-<!---
-sera619/sera619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</center>
+<strong><h2 align='center'>Projects</h2></strong>
+<p align='center'>
+<li><strong><a href='https://www.hackzor.de'>H4CKZ0R - A German hack-tutorial collection</a></strong></li>
+<li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent</a></strong></li>
+
+<li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
+<li><strong><a href='https://github.com/sera619/BashDIC'>UNIX Shellscript Collection</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PasswordManager'>P455 W1ZZ4RD</a></strong></li>
+</p>
