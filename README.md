@@ -1,4 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
+
+
 <p align='center'>
 <img align='center' src="https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true"></img>
 </p>
@@ -9,7 +11,7 @@
 <p align="center">
 <strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">ABOUT</a></strong>
 |
-<strong><a href="https://github.com/sera619/BashDIC/blob/master/YDTM.sh">PROJECTS</a></strong>
+<strong><a href='## Projects ##'>PROJECTS</a></strong>
 <strong><h3 align='center'>Welcome to my GitHub!</h3></strong>
 </p>
 
