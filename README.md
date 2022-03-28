@@ -1,9 +1,10 @@
-<center>
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
-
+<p align='center'>
 <img align='center' src="https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true"></img>
+</p>
+
 ---
+
 <strong><h1 align='center'></h1></strong>
 <p align="center">
 <strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">ABOUT</a></strong>
