@@ -4,9 +4,6 @@
 <p align='center'>
 <img align='center' src="https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true"></img>
 </p>
-
----
-
 <strong><h1 align='center'></h1></strong>
 <p align="center">
 <strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">ABOUT</a></strong>
@@ -20,7 +17,7 @@
 [![---](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right)](https://tryhackme.com/p/S3R43o3)
 
 [![-----------------------------------------------------](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#-)
----
+
 
 
 
