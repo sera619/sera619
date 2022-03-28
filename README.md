@@ -1,3 +1,5 @@
+<center>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
 ![Logo](https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true)
@@ -10,8 +12,6 @@
 <strong><h3 align='center'>Welcome to my GitHub!</h3></strong>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
-
-<center>
 
 [![----](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right)](https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
 [![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
