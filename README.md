@@ -29,6 +29,9 @@
 <li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
 <li><strong><a href='https://github.com/sera619/BashDIC'>UNIX Shellscript Collection</a></strong></li>
 <li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations</a></strong></li>
-<li><strong><a href='https://github.com/sera619/PasswordManager'>P455 W1ZZ4RD</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PasswordManager'>P455W1ZZ4RD</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PassWizzard-GUI'>P455W1ZZ4RD - Graphical UI</a></strong></li>
+
+  
 </ul>
 </p>
