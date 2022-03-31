@@ -3,6 +3,7 @@
 
 <p align='center'>
 <img align='center' src="https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true"></img>
+<img align='center' src="https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850"></img>
 </p>
 <strong><h1 align='center'></h1></strong>
 <p align="center">
