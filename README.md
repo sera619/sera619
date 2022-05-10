@@ -8,9 +8,9 @@
 </p>
 <strong><h1 align='center'></h1></strong>
 <p align="center">
-<strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">ABOUT</a></strong>
+<strong><a href="https://www.hackzor.de/aboutme">ABOUT</a></strong>
 |
-<strong><a href='## Projects ##'>PROJECTS</a></strong>
+<strong><a href='https://www.hackzor.de/aboutme/more'>PROJECTS</a></strong>
 <strong><h3 align='center'>Welcome to my GitHub!</h3></strong>
 </p>
 
