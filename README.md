@@ -10,7 +10,7 @@
 <p align="center">
 <strong><a href="https://www.hackzor.de/aboutme">ABOUT</a></strong>
 |
-<strong><a href='https://www.hackzor.de/aboutme/more'>PROJECTS</a></strong>
+<strong><a href='https://www.hackzor.de/about/more'>PROJECTS</a></strong>
 <strong><h3 align='center'>Welcome to my GitHub!</h3></strong>
 </p>
 
