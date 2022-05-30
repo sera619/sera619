@@ -27,7 +27,7 @@
 <p align='center'>
 <ul align='center' style='list-style:none;'>
 <li><strong><a href='https://www.hackzor.de'>H4CKZ0R - A German hack-tutorial collection</a></strong></li>
-<li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent</a></strong></li>
+<li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent(<a href='https://github.com/sera619/S4M-2.0'>S4M 2.0 WIP</a>)</a></strong></li>
 <li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
 <li><strong><a href='https://github.com/sera619/BashDIC'>UNIX Shellscript Collection</a></strong></li>
 <li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations</a></strong></li>
