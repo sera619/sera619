@@ -35,6 +35,7 @@
 <li><strong><a href='https://github.com/sera619/PassWizzard-GUI'>P455W1ZZ4RD - Graphical UI</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Android-Apps-Kotlin'>Android App's - Kotlin</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
+<li><strong><a href='https://github.com/sera619/LinkSafer-FireFox'>LinkSafer - Firefox/Chrome Addon to manage tabs.</a></strong></li>
 </ul>
 </p>
 <p align='center'>Note: This page is under contruction =P</p>
