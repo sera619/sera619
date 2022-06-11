@@ -37,7 +37,7 @@
 <li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
 <li><strong><a href='https://github.com/sera619/LinkSafer-FireFox'>LinkSafer - Firefox/Chrome Addon to manage tabs.</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Portfolio-SASS'>Example Portfolio Website design with SCSS/SASS</a></strong></li>
-<li><strong><a href='[https://github.com/sera619/Portfolio-SASS](https://github.com/sera619/PandorasBox---HackWithPython)'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)<a></strong></li>
+<li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)<a></strong></li>
   
 </ul>
 </p>
