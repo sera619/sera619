@@ -23,27 +23,23 @@
 
 
 
+<strong><h2 align='center'>Projects</h2></strong>
 <p align='center'>
 <ul align='center' style='list-style:none;'>
-<strong><h1 align='center' style="color: red;">Projects</h1></strong>
-<strong><h3 align="center" style="text-decoration: underline; color: darkred;">Homepage</h3></strong>
 <li><strong><a href='https://www.hackzor.de'>H4CKZ0R - A German hack-tutorial collection</a></strong></li>
-<li><strong><h3 align="center" style="text-decoration: underline; color: cyan;">Python</h3></strong></li>
+<li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent <a href='https://github.com/sera619/S4M-2.0'>(S4M 2.0 WIP)</a></a></strong></li>
+<li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
+<li><strong><a href='https://github.com/sera619/BashDIC'>UNIX Shellscript Collection</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations - A collection of nice (mostly only css) Web-Styles</a></strong></li>
 <li><strong><a href='https://github.com/sera619/PasswordManager'>P455W1ZZ4RD</a></strong></li>
 <li><strong><a href='https://github.com/sera619/PassWizzard-GUI'>P455W1ZZ4RD - Graphical UI</a></strong></li>
-<li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent <a href='https://github.com/sera619/S4M-2.0'>(S4M 2.0 WIP)</a></a></strong></li>
-<li><strong><a href='https://github.com/sera619/Cryptor-MessageEncryption'>Cryptor - Encrypting Textmessages</a></strong></li>
-<li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
-<li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)</a></strong></li>
-<li><strong><h3 align="center" style="text-decoration: underline; color: yellow;">Webstack [JavaScript, CSS(SASS), HTML]</h3></strong></li>
-<li><strong><a href='https://github.com/sera619/LinkSafer-FireFox'>LinkSafer - Firefox/Chrome Addon to manage tabs.</a></strong></li>
-<li><strong><a href='https://github.com/sera619/Portfolio-SASS'>Example Portfolio Website design with SCSS/SASS</a></strong></li>
-<li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations - A collection of nice (mostly only css) Web-Styles</a></strong></li>
-<strong><h3 align="center" style="text-decoration: underline; color: darkgreen;">Mobile</h3></strong>
 <li><strong><a href='https://github.com/sera619/Android-Apps-Kotlin'>Android App's - Kotlin</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
-<li><strong><h3 align="center" style="text-decoration: underline; color: orange;">Shell [BASH, PowerShell]</h3></strong></li>
-<li><strong><a href='https://github.com/sera619/BashDIC'>UNIX Shellscript Collection</a></strong></li>
+<li><strong><a href='https://github.com/sera619/LinkSafer-FireFox'>LinkSafer - Firefox/Chrome Addon to manage tabs.</a></strong></li>
+<li><strong><a href='https://github.com/sera619/Portfolio-SASS'>Example Portfolio Website design with SCSS/SASS</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)</a></strong></li>
+<li><strong><a href='https://github.com/sera619/Cryptor-MessageEncryption'>Cryptor - Encrypting Textmessages</a></strong></li>
+
 </ul>
 </p>
 <p align='center'>Note: This page is under contruction =P</p>
