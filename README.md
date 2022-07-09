@@ -40,7 +40,7 @@
 <li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Cryptor-MessageEncryption'>Cryptor - Encrypting Textmessages</a></strong></li>
 <li><strong><a href='https://github.com/sera619/2Race-3DRacingGame-Unity'>HQ 4k Arcade Racing Game [Unity Gameengine]</a></strong></li>
-
+<li><strong><a href='https://github.com/sera619/Python-Collection'>Python Collection [isnt that special for own repository =) ]</a></strong></li>
 
 
 
