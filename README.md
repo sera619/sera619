@@ -45,7 +45,7 @@
 <strong><h4 align='center'>Games</h4></strong>
 <ul align="center" style="list-style:none;">
 <li><strong><a href='https://github.com/sera619/2Race-3DRacingGame-Unity'>HQ 4k Arcade Racing Game [Unity Gameengine]</a></strong></li>
-<li><strong><a href='https://github.com/sera619/GD-Adventure-Godot'>GD Adventure - Rougelike-Dungeonrunner made in Godot</a></strong></li>
+<li><strong><a href='https://github.com/sera619/GD-Adventure-Godot'>GD Adventure - Rougelike-Dungeonrunner [Godot Gameengine]</a></strong></li>
 </ul>
 
 
