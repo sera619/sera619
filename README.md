@@ -39,12 +39,16 @@
 <li><strong><a href='https://github.com/sera619/Portfolio-SASS'>Example Portfolio Website design with SCSS/SASS</a></strong></li>
 <li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Cryptor-MessageEncryption'>Cryptor - Encrypting Textmessages</a></strong></li>
-<li><strong><a href='https://github.com/sera619/2Race-3DRacingGame-Unity'>HQ 4k Arcade Racing Game [Unity Gameengine]</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Python-Collection'>Python Collection [isnt that special for own repository =) ]</a></strong></li>
-
-
-
 </ul>
+<br>
+<strong><h4 align='center'>Games</h4></strong>
+<ul align="center" style="list-style:none;">
+<li><strong><a href='https://github.com/sera619/2Race-3DRacingGame-Unity'>HQ 4k Arcade Racing Game [Unity Gameengine]</a></strong></li>
+<li><strong><a href='https://github.com/sera619/GD-Adventure-Godot'>GD Adventure - Rougelike-Dungeonrunner made in Godot</a></strong></li>
+</ul>
+
+
 </p>
 <p align='center'>Note: This page is under contruction =P</p>
 
