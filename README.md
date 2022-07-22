@@ -24,12 +24,7 @@
 
 
 <strong><h2 align='center'>Projects</h2></strong>
-<h3 align='center'>That Project is very important for me. It is a costfree new Homepage for a human that take care of old showbiz animals. Such as leopards, birds and more. I would like help with a brand new website!</h3>
-
-  <ul align='center' style='list-style:none;'>
-<li><strong><a href='https://github.com/sera619/Leopard-HP'>New Website for old Showbiz-Animals.</a></strong></li>
-</ul 
-
+<h3 align='center'>That <a href='https://github.com/sera619/Leopard-HP'>Project</a> is very important for me. It is a costfree new Homepage for a human that take care of old showbiz animals. Such as leopards, birds and more. I would like help with a brand new website!</h3>
 
 
 <br>
