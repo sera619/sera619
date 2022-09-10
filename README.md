@@ -53,7 +53,7 @@
 </ul>
 <br>
 <strong><h4 align='center'>Discord Bot</h4></strong>
-<ul align='center' style="list-style:none;>
+<ul align='center' style="list-style:none;">
 <li><strong><a href='https://github.com/sera619/DiscordBot-python-hikari'>Discord Bot with Python/Hikari/Lavalink</a></strong></li>
 </ul>
 <br>
