@@ -44,6 +44,7 @@
 <li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Cryptor-MessageEncryption'>Cryptor - Encrypting Textmessages</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Python-Collection'>Python Collection [isnt that special for own repository =) ]</a></strong></li>
+<li><strong><a href='https://github.com/sera619/WebAssembly-Example'>Webassembly Practice</a></strong></li>
 </ul>
 <br>
 <strong><h4 align='center'>Games</h4></strong>
