@@ -51,6 +51,7 @@
 <ul align="center" style="list-style:none;">
 <li><strong><a href='https://github.com/sera619/2Race-3DRacingGame-Unity'>HQ 4k Arcade Racing Game [Unity Gameengine]</a></strong></li>
 <li><strong><a href='https://github.com/sera619/GD-Adventure-Godot'>GD Adventure - Rougelike-Dungeonrunner [Godot Gameengine]</a></strong></li>
+<li><strong><a href='https://github.com/sera619/TicTacToe-KivyMD'>TicTacToe with Python/KivyMD</a></strong></li>
 </ul>
 <br>
 <strong><h4 align='center'>Discord Bot</h4></strong>
