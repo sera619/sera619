@@ -52,6 +52,12 @@
 <li><strong><a href='https://github.com/sera619/TicTacToe-KivyMD'>TicTacToe with Python/KivyMD</a></strong></li>
 </ul>
 <br>
+<strong><h4 align='center'>Mobile</h4></strong>
+<ul align="center" style="list-style:none; align-items:center; text-align:center;">
+<li><strong><a href='https://github.com/sera619/Android-Apps-Kotlin'>Android App's - Kotlin</a></strong></li>
+<li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
+</ul>
+<br>
 <strong><h4 align='center'>Discord Bot</h4></strong>
 <ul align="center" style="list-style:none; align-items:center; text-align:center;">
 <li><strong><a href='https://github.com/sera619/DiscordBot-python-hikari'>Discord Bot with Python/Hikari/Lavalink</a></strong></li>
@@ -61,12 +67,7 @@
 <ul align="center" style="list-style:none; align-items:center; text-align:center;">
 <li><strong><a href='https://github.com/sera619/GuildAssist-WorldOfWarcraft-AddOn'>GuildAssist - Automatic GZ to Guildmates</a></strong></li>
 </ul>
-<br>
-<strong><h4 align='center'>Mobile</h4></strong>
-<ul align="center" style="list-style:none; align-items:center; text-align:center;">
-<li><strong><a href='https://github.com/sera619/Android-Apps-Kotlin'>Android App's - Kotlin</a></strong></li>
-<li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
-</ul>
+
 
 
 </p>
