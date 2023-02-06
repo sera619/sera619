@@ -25,17 +25,16 @@
 <strong><h4 align='center'>Windows Tools</h4></strong>
 <br>
 <p align='center'>
-<ul align='center' style='list-style:none;'>
+<ul align="center" style="list-style:none; align-items:center; text-align:center;">
 <li><strong><a href='https://github.com/sera619/Bookworm-Bookmanagementsystem'>BookWorm - PySide6 Booklist & UserDB</a></strong></li>
 <li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent <a href='https://github.com/sera619/S4M-2.0'>(S4M 2.0 WIP)</a></a></strong></li>
 <li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
 <li><strong><a href='https://github.com/sera619/BashDIC'>UNIX Shellscript Collection</a></strong></li>
-<li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations - A collection of nice (mostly only css) Web-Styles</a></strong></li>
+
 <li><strong><a href='https://github.com/sera619/PasswordManager'>P455W1ZZ4RD</a></strong></li>
 <li><strong><a href='https://github.com/sera619/PassWizzard-GUI'>P455W1ZZ4RD - Graphical UI</a></strong></li>
 <li><strong><a href="https://github.com/sera619/PasswordGenerator">Password Generator - Graphical UI</a></strong></li>
-<li><strong><a href='https://github.com/sera619/Android-Apps-Kotlin'>Android App's - Kotlin</a></strong></li>
-<li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
+
 
 <li><strong><a href='https://github.com/sera619/PandorasBox---HackWithPython'>Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Cryptor-MessageEncryption'>Cryptor - Encrypting Textmessages</a></strong></li>
@@ -48,6 +47,7 @@
 <ul align="center" style="list-style:none; align-items:center; text-align:center;">
 <li><strong><a href='https://github.com/sera619/LinkSafer-FireFox'>LinkSafer - Firefox/Chrome Addon to manage tabs.</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Portfolio-SASS'>Example Portfolio Website design with SCSS/SASS</a></strong></li>
+<li><strong><a href='https://github.com/sera619/PureCSS-Animations'>CSS Webanimations - A collection of nice (mostly only css) Web-Styles</a></strong></li>
 <ul>
 
 <strong><h4 align='center'>Games</h4></strong>
@@ -58,13 +58,19 @@
 </ul>
 <br>
 <strong><h4 align='center'>Discord Bot</h4></strong>
-<ul align='center' style="list-style:none;">
+<ul align="center" style="list-style:none; align-items:center; text-align:center;">
 <li><strong><a href='https://github.com/sera619/DiscordBot-python-hikari'>Discord Bot with Python/Hikari/Lavalink</a></strong></li>
 </ul>
 <br>
 <strong><h4 align='center'>World of Warcraft - AddOns</h4></strong>
 <ul align="center" style="list-style:none;">
 <li><strong><a href='https://github.com/sera619/GuildAssist-WorldOfWarcraft-AddOn'>GuildAssist - Automatic GZ to Guildmates</a></strong></li>
+</ul>
+<br>
+<strong><h4 align='center'>Mobile</h4></strong>
+<ul align="center" style="list-style:none; align-items:center; text-align:center;">
+<li><strong><a href='https://github.com/sera619/Android-Apps-Kotlin'>Android App's - Kotlin</a></strong></li>
+<li><strong><a href='https://github.com/sera619/Practice_Apps'>Android App's - Flutter&Dart</a></strong></li>
 </ul>
 
 
