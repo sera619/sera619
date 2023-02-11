@@ -51,8 +51,8 @@
 <li><strong><a href='https://github.com/sera619/GD-Adventure-Godot'>GD Adventure - Rougelike-Dungeonrunner [Godot Gameengine]</a></strong></li>
 <li><strong><a href='https://github.com/sera619/TicTacToe-KivyMD'>TicTacToe with Python/KivyMD</a></strong></li>
 <li><strong><a href='https://github.com/sera619/TicTacToe-PySide'>TicTacToe with Python/PySide6</a></strong></li>
-<li align="center"><strong><a href='https://github.com/sera619/Tetris-PyGame'>Tetris with Python/PyGame</a></strong></li>
-<li align="center"><strong><a href='  https://github.com/sera619/BreakOut-PyGame'>Breakout with Python/PyGame</a></strong></li>
+<li><strong><a href='https://github.com/sera619/Tetris-PyGame'>Tetris with Python/PyGame</a></strong></li>
+<li><strong><a href='https://github.com/sera619/BreakOut-PyGame'>Breakout with Python/PyGame</a></strong></li>
 </ul>
 <br>
 <strong><h4 align='center'>Mobile</h4></strong>
