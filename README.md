@@ -53,6 +53,7 @@
 <li><strong><a href='https://github.com/sera619/TicTacToe-PySide'>TicTacToe with Python/PySide6</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Tetris-PyGame'>Tetris with Python/PyGame</a></strong></li>
 <li><strong><a href='https://github.com/sera619/BreakOut-PyGame'>Breakout with Python/PyGame</a></strong></li>
+<li><strong><a href='https://github.com/sera619/Connect4-PyGame'>Connect 4 with Python/PyGame</a></strong></li>
 </ul>
 <br>
 <strong><h4 align='center'>Mobile</h4></strong>
