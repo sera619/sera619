@@ -15,7 +15,7 @@
 </p>
 <center>
 
-  [![----](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right)](https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
+[![----](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right)](https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
 [![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
 [![---](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right)](https://tryhackme.com/p/S3R43o3)
 

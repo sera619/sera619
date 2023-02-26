@@ -1,0 +1,20 @@
+name: Update README when new repository is created
+
+on:
+  repository:
+    types: [created]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Update README
+      run: |
+        echo "- [${{ github.event.repository.name }}](${{ github.event.repository.html_url }})" >> README.md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Add new repository to README"
+        git push
