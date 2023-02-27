@@ -25,7 +25,7 @@
 <strong><h4 align='center'>Windows Tools</h4></strong>
 <p align='center'>
 <ul align="center" style="list-style:none; align-items:center; text-align:center;">
-<li><strong><a href='https://github.com/sera619/MakeEnvi-Powershell'>Systen Monitor</a></strong></li>
+<li><strong><a href='https://github.com/sera619/MakeEnvi-Powershell'>MakeEnvi - Powershell CodeProject Automatic</a></strong></li>
 <li><strong><a href='https://github.com/sera619/Bookworm-Bookmanagementsystem'>BookWorm - PySide6 Booklist & UserDB</a></strong></li>
 <li><strong><a href='https://github.com/sera619/VoiceAssistent'>S4M - Voice Assistent <a href='https://github.com/sera619/S4M-2.0'>(S4M 2.0 WIP)</a></a></strong></li>
 <li><strong><a href='https://github.com/sera619/system-manager-python'>Systen Monitor</a></strong></li>
