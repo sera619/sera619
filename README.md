@@ -5,9 +5,10 @@
 
 **[ABOUT](https://www.hackzor.de/aboutme)** | **[PROJECTS](https://www.hackzor.de/about/more)**
 
-
+<p>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 <img src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true" height="50">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
