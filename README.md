@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!)](https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github! https://git.io/typing-svg">
 </p>
 
 <center>
@@ -44,7 +44,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" data-origin="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" data-origin="https://img.shields.io/badg/C++%20-%2300599C.svg" style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
