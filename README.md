@@ -3,34 +3,44 @@
 
 ![](https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true) ![](https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850)
 
+<center>
+
 **[ABOUT](https://www.hackzor.de/aboutme)** | **[PROJECTS](https://www.hackzor.de/about/more)**
+
+</center>
 
 <p align="center">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 <img src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true" height="50">
-
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!)](https://git.io/typing-svg">
+</p>
+
+<center>
 
 [![----](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right)](https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
 [![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
 [![---](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right)](https://tryhackme.com/p/S3R43o3)
 
+</center>
 
 [![-----------------------------------------------------](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#-)
 
-## OS
+<h1 align="center">OS<h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
 </p>
 
-## Skills
+[![-----------------------------------------------------](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#-)
+
+
+<h1 align="center">Skills<h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
