@@ -80,3 +80,77 @@
 </p>
 <p align='center'>Note: This page is under contruction =P</p>
 </center>
+
+
+
+**
+
+#### Windows Tools
+
+**
+
+*   **[MakeEnvi - Powershell CodeProject Automatic](https://github.com/sera619/MakeEnvi-Powershell)**
+*   **[BookWorm - PySide6 Booklist & UserDB](https://github.com/sera619/Bookworm-Bookmanagementsystem)**
+*   **[S4M - Voice Assistent](https://github.com/sera619/VoiceAssistent) [(S4M 2.0 WIP)](https://github.com/sera619/S4M-2.0)**
+*   **[Systen Monitor](https://github.com/sera619/system-manager-python)**
+*   **[UNIX Shellscript Collection](https://github.com/sera619/BashDIC)**
+*   **[P455W1ZZ4RD](https://github.com/sera619/PasswordManager)**
+*   **[P455W1ZZ4RD - Graphical UI](https://github.com/sera619/PassWizzard-GUI)**
+*   **[Password Generator - Graphical UI](https://github.com/sera619/PasswordGenerator)**
+*   **[Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)](https://github.com/sera619/PandorasBox---HackWithPython)**
+*   **[Cryptor - Encrypting Textmessages](https://github.com/sera619/Cryptor-MessageEncryption)**
+*   **[Python Collection \[isnt that special for own repository =) \]](https://github.com/sera619/Python-Collection)**
+*   **[Webassembly Practice](https://github.com/sera619/WebAssembly-Example)**
+
+  
+**
+
+#### Webstack (HTML/CSS/JavaScript)
+
+**
+
+*   **[LinkSafer - Firefox/Chrome Addon to manage tabs.](https://github.com/sera619/LinkSafer-FireFox)**
+*   **[Example Portfolio Website design with SCSS/SASS](https://github.com/sera619/Portfolio-SASS)**
+*   **[CSS Webanimations - A collection of nice (mostly only css) Web-Styles](https://github.com/sera619/PureCSS-Animations)**
+
+  
+**
+
+#### Games
+
+**
+
+*   **[HQ 4k Arcade Racing Game \[Unity Gameengine\]](https://github.com/sera619/2Race-3DRacingGame-Unity)**
+*   **[GD Adventure - Rougelike-Dungeonrunner \[Godot Gameengine\]](https://github.com/sera619/GD-Adventure-Godot)**
+*   **[TicTacToe with Python/KivyMD](https://github.com/sera619/TicTacToe-KivyMD)**
+*   **[TicTacToe with Python/PySide6](https://github.com/sera619/TicTacToe-PySide)**
+*   **[Tetris with Python/PyGame](https://github.com/sera619/Tetris-PyGame)**
+*   **[Breakout with Python/PyGame](https://github.com/sera619/BreakOut-PyGame)**
+*   **[Connect 4 with Python/PyGame](https://github.com/sera619/Connect4-PyGame)**
+
+  
+**
+
+#### Mobile
+
+**
+
+*   **[Android App's - Kotlin](https://github.com/sera619/Android-Apps-Kotlin)**
+*   **[Android App's - Flutter&Dart](https://github.com/sera619/Practice_Apps)**
+
+  
+**
+
+#### Discord Bot
+
+**
+
+*   **[Discord Bot with Python/Hikari/Lavalink](https://github.com/sera619/DiscordBot-python-hikari)**
+
+  
+
+#### **World of Warcraft - AddOns**
+
+*   **[GuildAssist - Automatic GZ to Guildmates](https://github.com/sera619/GuildAssist-WorldOfWarcraft-AddOn)**
+
+Note: This page is under contruction =P
