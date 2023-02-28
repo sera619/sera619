@@ -6,7 +6,7 @@
 <img align='center' src="https://github.com/sera619/Foxy/blob/master/Assets/CORE/Images/UI/LOGO.png?raw=true"></img>
 <img align='center' src="https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850"></img>
 </p>
-<strong><h1 align='center'></h1></strong>
+<strong><h1 style='text-align: center;'></h1></strong>
 <p align="center">
 <strong><a href="https://www.hackzor.de/aboutme">ABOUT</a></strong>
 |
@@ -47,7 +47,7 @@
 </ul>
 <br>
 <strong><h4 align='center'>Games</h4></strong>
-<ul align="center" style="list-style:none; align-items:center; text-align:center;">
+<ul align="center" style="list-style:none; align-items:center; text-align:center;justify-content: center; display:row;">
 <li><strong><a href='https://github.com/sera619/2Race-3DRacingGame-Unity'>HQ 4k Arcade Racing Game [Unity Gameengine]</a></strong></li>
 <li><strong><a href='https://github.com/sera619/GD-Adventure-Godot'>GD Adventure - Rougelike-Dungeonrunner [Godot Gameengine]</a></strong></li>
 <li><strong><a href='https://github.com/sera619/TicTacToe-KivyMD'>TicTacToe with Python/KivyMD</a></strong></li>
@@ -68,7 +68,7 @@
 <li><strong><a href='https://github.com/sera619/DiscordBot-python-hikari'>Discord Bot with Python/Hikari/Lavalink</a></strong></li>
 </ul>
 <br>
-<strong><h4 align='center'>World of Warcraft - AddOns</h4></strong>
+<h4 align='center'><strong>World of Warcraft - AddOns</strong></h4>
 <ul align="center" style="list-style:none; align-items:center; text-align:center;">
 <li><strong><a href='https://github.com/sera619/GuildAssist-WorldOfWarcraft-AddOn'>GuildAssist - Automatic GZ to Guildmates</a></strong></li>
 </ul>
@@ -77,7 +77,4 @@
 
 </p>
 <p align='center'>Note: This page is under contruction =P</p>
-
-## Unsorted projects
-
 
