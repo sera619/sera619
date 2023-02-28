@@ -6,6 +6,8 @@
 **[ABOUT](https://www.hackzor.de/aboutme)** | **[PROJECTS](https://www.hackzor.de/about/more)**
 
 
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+<img src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true" height="50">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
@@ -13,7 +15,9 @@
 [![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
 [![---](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right)](https://tryhackme.com/p/S3R43o3)
 
+
 [![-----------------------------------------------------](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#-)
+
 
 <details>
     <summary style="font-size: 20px;"><b><u>Windows Tools</u></b></summary>
@@ -73,7 +77,6 @@
 *   **[Discord Bot with Python/Hikari/Lavalink](https://github.com/sera619/DiscordBot-python-hikari)**
 
 </details>
-
 
 <details>
     <summary style="font-size: 20px;"><b><u>World of Warcraft - Addons (LUA)</u></b></summary>
