@@ -5,9 +5,9 @@
 
 **[ABOUT](https://www.hackzor.de/aboutme)** | **[PROJECTS](https://www.hackzor.de/about/more)**
 
-### **Welcome to my GitHub!**
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 [![----](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right)](https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
 [![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-    <summary style="font-size: 20px;"><b><u>Mobile</u></b></summary>
+    <summary style="font-size: 20px;"><b><u>Mobile (Flutter/Dart/Kotlin)</u></b></summary>
 
 
 *   **[Android App's - Kotlin](https://github.com/sera619/Android-Apps-Kotlin)**
@@ -82,5 +82,6 @@
 
 </details>
 
----
+[![-](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#)
+
 Note: This page is under contruction =P
