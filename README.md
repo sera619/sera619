@@ -18,13 +18,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!">
 </p>
 
-<center>
+<p align="center">
+<a href="https//www.youtube.com/@S3R43o3"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right"/></a>
+<a href="https://codepen.io/sera619"><img src="https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right"/></a>
+<a href="https://tryhackme.com/p/S3R43o3"><img src="https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right"/></a>
+</p>    
 
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right"/>(https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ)
-[![----](https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right)](https://codepen.io/sera619)
-[![---](https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right)](https://tryhackme.com/p/S3R43o3)
-
-</center>
 
 [![-----------------------------------------------------](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#-)
 
