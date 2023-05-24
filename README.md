@@ -90,6 +90,7 @@
     <summary style="font-size: 20px;"><b><u>Webstack (HTML/CSS/JavaScript)</u></b></summary>
 
 *   **[Webassembly Practice](https://github.com/sera619/WebAssembly-Example)**
+*   **[LinkSafer - Microsoft Edge browserextension - Newest Version](https://github.com/sera619/LinkSafer-Edge)**
 *   **[LinkSafer - Firefox/Chrome Addon to manage tabs.](https://github.com/sera619/LinkSafer-FireFox)**
 *   **[Example Portfolio Website design with SCSS/SASS](https://github.com/sera619/Portfolio-SASS)**
 *   **[CSS Webanimations - A collection of nice (mostly only css) Web-Styles](https://github.com/sera619/PureCSS-Animations)**
