@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!">
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=450&height=70&lines=Welcome+to+my+Github!" width="100%">
 </p>
 
 <p align="center">
