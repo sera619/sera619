@@ -69,7 +69,8 @@
 
 <h1 align="center">My Realworld Projects<h1>
 <p align="center">
-<a href="https://www.eintopfracing.de"><img src="https://eintopfracing.de/assets/img/headline.svg">Eintopf Racing - Merchandise Shop</a>
+<a href="https://www.eintopfracing.de"><img src="https://eintopfracing.de/assets/img/headline.svg"></a>
+<br/>A little merchandise shop build on top off the php symfony framework. 
 </p>
 
 
