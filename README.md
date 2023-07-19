@@ -12,6 +12,23 @@
 </p>
 
 <p align="center">
+Unser Kali Linux, der du bist im Terminal,<br/>
+geheiligt werde deine Shell.<br/>
+Deine Exploits kommen,<br/>
+dein Code geschehe,<br/>
+wie in der Root-Ebene, so auch im User-Modus.<br/>
+Unsere tägliche Bug-Bounty gib uns heute.<br/>
+Und vergib uns unsere Syntaxfehler,<br/>
+wie auch wir vergeben unseren Debugging-Helfern.<br/>
+Und führe uns nicht in die Irre,<br/>
+sondern erlöse uns von den Firewalls.<br/>
+Denn dein ist die Exploit-Payload,<br/>
+der Root-Zugriff und die Hacker-Macht,<br/>
+in Ewigkeit.<br/>
+CTRL+C, CTRL+V.
+
+Copyright 2023 S3R43o3 </p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=500px&height=70&lines=Welcome+to+my+Github!" width="100%">
 </p>
 
