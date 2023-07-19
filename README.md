@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    I am a political activitist, accept that or go away 🙂✌️<br/><br/><br/>
+    I am a political activitist, accept and respect that or go away 🙂✌️<br/><br/><br/>
 Unser Kali Linux, der du bist im Terminal,<br/>
 geheiligt werde deine Shell.<br/>
 Deine Exploits kommen,<br/>
