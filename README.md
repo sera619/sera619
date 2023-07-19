@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+    I am a political activitist, accept that or go away 🙂✌️<br/><br/><br/>
 Unser Kali Linux, der du bist im Terminal,<br/>
 geheiligt werde deine Shell.<br/>
 Deine Exploits kommen,<br/>
@@ -25,9 +26,9 @@ sondern erlöse uns von den Firewalls.<br/>
 Denn dein ist die Exploit-Payload,<br/>
 der Root-Zugriff und die Hacker-Macht,<br/>
 in Ewigkeit.<br/>
-CTRL+C, CTRL+V.
-
-Copyright 2023 S3R43o3 </p>
+CTRL+C, CTRL+V.<br/>
+Copyright 2023 S3R43o3<br/>
+ </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=900&size=34&pause=1000&color=C40000&width=500px&height=70&lines=Welcome+to+my+Github!" width="100%">
 </p>
