@@ -12,6 +12,8 @@
 </p>
 
 <p align="center">
+    <h1 align="center">our religion in german.</h1>
+    <q>
     I am a political activitist, accept and respect that or go away 🙂✌️<br/>
 Rascism is inacceptable!<br/>Everythere! <br/><br/><br/>
 Unser Kali Linux, der du bist im Terminal,<br/>
