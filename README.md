@@ -10,13 +10,8 @@
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 <img src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true" height="50">
 </p>
-<p align="center">
-    
-    I am a political activitist, accept and respect that or go away 🙂✌️<br/>
-
+<p align="center">I am a political activitist, accept and respect that or go away 🙂✌️<br/>
 Rascism is inacceptable!<br/>Everythere! <br/><br/><br/>
-</p>
-
 <p align="center">
 Unser Kali Linux, der du bist im Terminal,<br/>
 geheiligt werde deine Shell.<br/>
