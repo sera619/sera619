@@ -16,7 +16,7 @@
 
 Rascism is inacceptable!<br/>Everythere! <br/><br/><br/>
 </p>
-<h1 align="center">our religion in german.</h1>
+
 <p align="center">
 Unser Kali Linux, der du bist im Terminal,<br/>
 geheiligt werde deine Shell.<br/>
