@@ -34,7 +34,7 @@ Copyright 2023 S3R43o3<br/>
 </p>
 
 <p align="center">
-<a href="https//www.youtube.com/@S3R43o3"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right"/></a>
+<a href="https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&link=http://https://www.youtube.com/channel/UCJLXwZV5Kk4XRF6TSY_iPgQ&link=http://right"/></a>
 <a href="https://codepen.io/sera619"><img src="https://img.shields.io/badge/Codepen-grey?style=for-the-badge&logo=codepen&link=http://left&link=http://right"/></a>
 <a href="https://tryhackme.com/p/S3R43o3"><img src="https://img.shields.io/badge/TryHackMe-darkred?style=for-the-badge&logo=tryhackme&link=http://left&link=http://right"/></a>
 </p>    
