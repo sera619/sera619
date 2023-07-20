@@ -11,7 +11,7 @@
 <img src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true" height="50">
 </p>
 <p align="center">I am a political (h)activitist, accept and respect that or go away 🙂✌️<br/>
-Rascism is inacceptable!<br/>Everythere! <br/><br/><br/>
+Rascism & sexism is inacceptable!<br/>Everythere! <br/><br/><br/>
 <p align="center">
 Unser Kali Linux, der du bist im Terminal,<br/>
 geheiligt werde deine Shell.<br/>
