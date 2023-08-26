@@ -5,8 +5,7 @@
 
 
 <p align="center">
-    <img src="https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/278399330_10159602158726368_766554341687719662_n.jpg?_nc_cat=111&cb=99be929b-3346023f&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=E9EsR1hzxCkAX87ezfd&_nc_ht=scontent-ham3-1.xx&oh=00_AfC0Yeq_hpGSdSREbK49t1XK2zcUkwnK8MG79wziRb5uCA&oe=64BB4F74">
-    
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6447932.jpg&f=1&nofb=1&ipt=951ddad611a500842f2088d0192663196450b4573097bbcb2a1b06a0bbc43f5f&ipo=images">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 <img src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true" height="50">
 </p>
