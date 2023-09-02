@@ -98,7 +98,7 @@ Copyright 2023 S3R43o3<br/>
 
 
 <details>
-    <summary style="font-size: 20px;"><b><u>Windows Tools</u></b></summary>
+    <summary style="font-size: 18px;"><b><u>Windows Tools</u></b></summary>
 
 *   **[MakeEnvi - Powershell CodeProject Automatic](https://github.com/sera619/MakeEnvi-Powershell)**
 *   **[BookWorm - PySide6 Booklist & UserDB](https://github.com/sera619/Bookworm-Bookmanagementsystem)**
@@ -111,6 +111,7 @@ Copyright 2023 S3R43o3<br/>
 *   **[Collection of common Cyberattacks written in Python (BE CAREFULLY! READ NOTICES!)](https://github.com/sera619/PandorasBox---HackWithPython)**
 *   **[Cryptor - Encrypting Textmessages](https://github.com/sera619/Cryptor-MessageEncryption)**
 *   **[Python Collection \[isnt that special for own repository =) \]](https://github.com/sera619/Python-Collection)**
+*   **[Text-to-Speech Konverter Offline - Graphical UI](https://github.com/sera619/Speaker-TTS-Offline)**
 
 </details>
 
