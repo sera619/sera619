@@ -100,6 +100,7 @@ Copyright 2023 S3R43o3<br/>
 <details>
     <summary style="font-size: 18px;"><b><u>Windows Tools</u></b></summary>
 
+*   **[YT Downloader (Desktop Version)](https://github.com/sera619/YoutubeDownloader_WinUI3)**
 *   **[MakeEnvi - Powershell CodeProject Automatic](https://github.com/sera619/MakeEnvi-Powershell)**
 *   **[BookWorm - PySide6 Booklist & UserDB](https://github.com/sera619/Bookworm-Bookmanagementsystem)**
 *   **[S4M - Voice Assistent](https://github.com/sera619/VoiceAssistent) [(S4M 2.0 WIP)](https://github.com/sera619/S4M-2.0)**
@@ -140,14 +141,16 @@ Copyright 2023 S3R43o3<br/>
 *   **[Breakout with Python/PyGame](https://github.com/sera619/BreakOut-PyGame)**
 *   **[Connect 4 with Python/PyGame](https://github.com/sera619/Connect4-PyGame)**
 
+
 </details>
 
 <details>
-    <summary style="font-size: 20px;"><b><u>Mobile (Flutter/Dart/Kotlin)</u></b></summary>
+    <summary style="font-size: 20px;"><b><u>Mobile (Flutter/Dart/Kotlin/.NET MAUI)</u></b></summary>
 
 
 *   **[Android App's - Kotlin](https://github.com/sera619/Android-Apps-Kotlin)**
 *   **[Android App's - Flutter&Dart](https://github.com/sera619/Practice_Apps)**
+*   **[YT Downloader (Android Version)](https://github.com/sera619/YTDownloader-Android)**
 
 </details>
 
