@@ -166,7 +166,8 @@ Copyright 2023 S3R43o3<br/>
     <summary style="font-size: 20px;"><b><u>World of Warcraft - Addons (LUA)</u></b></summary>
 
 *   **[GuildAssist - Automatic GZ to Guildmates](https://github.com/sera619/GuildAssist-WorldOfWarcraft-AddOn)**
-*   **[KeyAnouncer - Automatic post m+ keystones in chat](https://github.com/sera619/KeyAnouncer)
+*   **[KeyAnouncer - Automatic post m+ keystones in chat](https://github.com/sera619/KeyAnouncer)**
+
 </details>
 
 [![-](https://github.com/sera619/sera619/blob/main/coloredred.png?raw=true)](#)
